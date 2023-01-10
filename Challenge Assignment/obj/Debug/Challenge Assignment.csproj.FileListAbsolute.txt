@@ -1,0 +1,2 @@
+C:\Users\mushe\source\C sharpe\Challenge Assignment\obj\Debug\Challenge Assignment.csproj.AssemblyReference.cache
+C:\Users\mushe\source\C sharpe\Challenge Assignment\obj\Debug\Challenge Assignment.csproj.CoreCompileInputs.cache
